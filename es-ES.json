@@ -1,6 +1,6 @@
 {
     "name": "Español (España)",
-    "description": "Traducción de la comunidad al español de España. Puedes encontrar otras traducciones de la comunidad en el repositorio de traducciones (consulta el menú de créditos). Estas traducciones pueden estar desactualizadas o contener errores. Creada por Maksklv2010, mantenida por Fhursday, WereWhusky y en2que, y revisada por JaGarLo",
+    "description": "Traducción de la comunidad al español de España. Puedes encontrar otras traducciones de la comunidad en el repositorio de traducciones (consulta el menú de créditos). Estas traducciones pueden estar desactualizadas o contener errores. Creada por Maksklv2010, mantenida por Fhursday, WereWhusky, en2que e Iter-bite, y revisada por JaGarLo",
     "version": "7.7.9",
     "main": {
         "bandage": "Vendaje",
@@ -64,7 +64,7 @@
         "antirad": "Bote antirradiación",
         "antiraddsc": "Un bote de píldoras de 100ml con un símbolo guay de radiación. El dosaje es de 20ml.",
         "sleepingpills": "Pastillas para dormir",
-        "sleepingpillsdsc": "Un blíster con 25 ml de pastillas. La dosis es de 5ml. No aparece el nombre de la marca.",
+        "sleepingpillsdsc": "Un blíster con 25ml de pastillas. La dosis es de 5ml. No aparece el nombre de la marca.",
         "rosepod": "Vaina de rosa",
         "rosepoddsc": "Una parte de la rosa de arena. No se degrada. Se puede abrir.",
         "roselight": "Luz de rosa",
