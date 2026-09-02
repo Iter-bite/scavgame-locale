@@ -1008,7 +1008,7 @@
         "strokedsc": "Sangrado en el cerebro, posiblemente debido a una severa hipertensión. Ya en estado avanzado, las probabilidades de supervivencia son nulas a menos de que tengas Crecerebro o un procoagulante.",
         "cantbreathedsc": "¡Te asfixias! Pérdida de consciencia y muerte inminente si no se trata.",
         "thoraxdestroyeddsc": "Tus pulmones están demasiado dañados para funcionar, debido a una salud muscular críticamente baja en el tórax.",
-        "pulmonaryembolismdsc": "n gran coágulo sanguíneo se ha desprendido y se ha alojado en los pulmones, bloqueando una arteria. Daño pulmonar acelerado y asfixia inminente. Reduce urgentemente la viscosidad de tu sangre.",
+        "pulmonaryembolismdsc": "Un gran coágulo sanguíneo se ha desprendido y se ha alojado en los pulmones, bloqueando una arteria. Daño pulmonar acelerado y asfixia inminente. Reduce urgentemente la viscosidad de tu sangre.",
         "oxygen1dsc": "SpO2 por debajo del 90%. Aunque no es peligroso, podría ser señal de una condición subyacente.",
         "oxygen2dsc": "SpO2 por debajo del 75%, causando taquicardia y una lenta deprivación de oxígeno al cerebro. No es letal, pero es señal de una condición subyacente.",
         "oxygen3dsc": "SpO2 por debajo del 60%, privando de oxígeno a tejidos importantes, con riesgo de causar arritmia cardiaca. Letal si se deja progresar.",
