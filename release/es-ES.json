@@ -4685,48 +4685,6 @@
                 "Me estoy entumeciendo de tanto frío...",
                 "No puedo sentir mis extremidades."
             ],
-            "breakcorpse": [
-                "Qué acto tan terrible y deplorable que acabo de hacer.",
-                "Me cuesta encontrar sentido a lo que acabo de hacer.",
-                "Ew. Ew, ew, ew ew, Ew.",
-                "Creo que se me ha quedado algo en mi ojo.",
-                "Eso fue innecesario.",
-                "Guau. Qué asquerosidad de mi parte."
-            ],
-            "cold": [
-                "Frío.",
-                "Mi temperatura corporal está por debajo de la media.",
-                "La temperatura ambiental está por debajo de lo normal.",
-                "*temblor*",
-                "Tengo frío.",
-                "Puede que entre en un estado hipotérmico si esto continúa.",
-                "No tengo calor en mi cuerpo.",
-                "Debería mantenerme a una temperatura adecuada.",
-                "Se está un poco frío en esta área."
-            ],
-            "warm": [
-                "Caliente.",
-                "Mi temperatura corporal está por encima de la media.",
-                "Estoy sudando.",
-                "Debo enfriarme.",
-                "Un paquete de hielo sería de ayuda.",
-                "Estoy demasiado acalorado para mi comodidad.",
-                "Estoy caliente.",
-                "Se está un poco caliente.",
-                "La temperatura ambiental es alta."
-            ],
-            "hot": [
-                "Tengo mucho color.",
-                "...Caliente. Muy. Caliente.",
-                "Puede que sufra un golpe de calor a este ritmo...",
-                "Estoy peligrosamente hipertérmico...",
-                "Se aproxima... Un golpe de calor.",
-                "Es difícil concentrarse con este calor.",
-                "Peligrosamente caliente...",
-                "Sudar no basta para corregir esto...",
-                "Calor mareante.",
-                "Estoy sudando bastante."
-            ],
             "exerted": [
                 "Preferiría descansar.",
                 "Un ejercicio saludable.",
