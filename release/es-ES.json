@@ -1068,7 +1068,7 @@
         "bleeding2dsc": "Tienes sangre saliendo de una herida de un tamaño considerable. No debería ser letal si estás saludable, pero sigue siendo peligrosa.",
         "bleeding3dsc": "Estás perdiendo mucha sangre. Letal si no es tratada.",
         "bleeding4dsc": "<i>A medida que tu vida se derrama a tu alrededor, recuerdas tu mortalidad.",
-        "internalBleeddsc": "La sangre se está acumulando en cavidades en los que no debería estar. Encuentra procoagulante o un D.R.L.",
+        "internalBleeddsc": "La sangre se está acumulando en cavidades en las que no debería estar. Encuentra un procoagulante o un D.R.L.",
         "exertion1dsc": "Cansancio físico. (<>%)",
         "exertion2dsc": "Elevado cansancio físico. Te cuesta moverte o hacer cualquier cosa. (<>%)",
         "exertion3dsc": "Apenas puedes moverte. Cansancio físico muy elevado. (<>%)",
