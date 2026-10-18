@@ -2313,7 +2313,7 @@
         "tutmove9": "¿Cómo has llegado ahí arriba…? Qué raro. Sea como sea, coge el siguiente barril, por favor.",
         "tutmove10": "Carga un lanzamiento, salta y luego lanza el barril hacia abajo. Sube por la pared propulsándote con el lanzamiento.",
         "tutmove11": "Bien hecho. Cuanto más pese el objeto, más lejos te lanzarás. Coge el siguiente barril.",
-        "tutmove12": "Salta por este hueco y detén tu caída lanzando el barril hacia abajo antes de chocar contra el suelo. No toques las paredes.",
+        "tutmove12": "Salta hacia abajo por este hueco y detén tu caída lanzando el barril hacia abajo antes de chocar contra el suelo. No toques las paredes.",
         "tutmove13": "Lo has hecho bien.",
         "tutmove14": "Golpear objetos te impulsa hacia atrás de forma similar. Intenta subir por la pared situada más a la derecha dirigiendo los golpes principalmente hacia abajo.",
         "tutmove15": "Coge esta almádena y vuelve a propulsarte a golpes con ella. Ganarás mucha más altura debido al retroceso de la almádena.",
@@ -6495,7 +6495,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[NOTA PERSONAL]\n[DR. █████, 2-11-25XX]<>\n\nRecortes... ¡Recortes, dice!\n¿Acaso no lo entiende? ¿No aprecia lo que el programa SAW ha hecho por esta compañía? ¿Lo que YO he hecho por ella? Nuestra investigación no está estancada. Estaba a punto de acabar el SAW-13. El espécimen adecuado nos permitiría recuperar el rumbo.\n\nNo los exterminaré, pero puedo acontentarle.<>\nEl planeta del que obtienen su sangre. Es su casa tanto como la Tierra. En cierto modo, siempre han pertenecido a ese lugar. Lo llamaré un experimento prolongado, una observación de cómo se comportan lejos de sus amos. No nos cuesta nada, está a salvo de miradas indiscretas y, si necesitamos más, simplemente los traeremos de vuelta. Todo es perfecto.\n\nAdelante, entonces. Multiplicaos. Cogeos de la mano o cubríos las manos con la sangre de vuestro prójimo. \nRepetid nuestros errores. Corred libres y sin freno. Pero recordad, todos sois mis hijos y nunca seréis libres de mí.",
+            "Item1": "[NOTA PERSONAL]\n[DR. █████, 2-11-25XX]<>\n\nRecortes... ¡Recortes, dice!\n¿Acaso no lo entiende? ¿No aprecia lo que el programa SAW ha hecho por esta compañía? ¿Lo que YO he hecho por ella? Nuestra investigación no está estancada. Estaba a punto de acabar el SAW-13. El espécimen adecuado nos permitiría recuperar el rumbo.\n\nNo los exterminaré, pero puedo dejarlo satisfecho.<>\nEl planeta del que obtienen su sangre. Es su hogar tanto como lo es la Tierra. En cierto modo, siempre han pertenecido a ese lugar. Lo llamaré un experimento prolongado, una observación de cómo se comportan lejos de sus amos. No nos cuesta nada, está a salvo de miradas indiscretas y, si necesitamos más, simplemente los traeremos de vuelta. Todo es perfecto.\n\nAdelante, entonces. Multiplicaos. Cogeos de la mano o cubríos las manos con la sangre de vuestro prójimo. \nRepetid nuestros errores. Vivid libres y sin freno. Pero recordad, todos sois mis hijos y nunca seréis libres de mí.",
             "Item2": ""
         },
         {
@@ -6641,7 +6641,7 @@
             "No te acomodes.",
             "¡Feliz supervivencia!",
             "El exceso de confianza es un asesino lento e insidioso.",
-            "Una gran ilusión. Un gran fracaso y un gran desperdicio. Pero no para mí.",
+            "Un gran delirio. Un gran fracaso y un gran desperdicio. Pero no para mí.",
             "¿De verdad tienes el control?",
             "Me divierte que creas tener siquiera una apariencia de control. Continúa.",
             "¿De verdad crees que merece la pena bajar hasta allí por esa cosa? Puedo hacer muchas más.",
