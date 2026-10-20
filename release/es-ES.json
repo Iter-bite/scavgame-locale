@@ -134,11 +134,11 @@
         "soothingcrystalshard": "Trozo de cristal calmante",
         "soothingcrystalsharddsc": "Tiene un aura calmante. Aumenta lentamente la felicidad mientras lo lleves en el cuerpo.",
         "reliefcrystalshard": "Trozo de cristal de alivio",
-        "reliefcrystalsharddsc": "Te sientes un poco entumecido al sostenerlo... Reduce el dolor mientras lo lleves en el cuerpo.",
+        "reliefcrystalsharddsc": "Te sientes un poco entumecido al sostenerlo Reduce el dolor mientras lo lleves en el cuerpo.",
         "turbulentcrystalshard": "Trozo de cristal turbulento",
         "turbulentcrystalsharddsc": "Vibra con energía. Aumenta la altura del salto mientras lo lleves en el cuerpo.",
         "oxygencrystalshard": "Trozo de cristal de oxígeno",
-        "oxygencrystalsharddsc": "Burbujea lentamente y libera oxígeno a su alrededor... Aumenta la regeneración de aguante mientras lo lleves en el cuerpo.",
+        "oxygencrystalsharddsc": "Burbujea lentamente y libera oxígeno a su alrededor Aumenta la regeneración de aguante mientras lo lleves en el cuerpo.",
         "emissivecrystalshard": "Trozo de cristal luminoso",
         "emissivecrystalsharddsc": "Brilla intensamente durante un tiempo. Es útil como fuente de luz mientras dura.",
         "digestioncrystalshard": "Trozo de cristal de digestión",
@@ -2310,7 +2310,7 @@
         "tutmove6": "Puedes agacharte en el aire para meterte en agujeros de una altura de 3 bloques.",
         "tutmove7": "También puedes saltar desde las paredes mientras te agachas.",
         "tutmove8": "Atacar y lanzar cosas te empuja al lado opuesto. Coge este minibarril.",
-        "tutmove9": "¿Cómo has llegado ahí arriba…? Qué raro. Sea como sea, coge el siguiente barril, por favor.",
+        "tutmove9": "¿Cómo has llegado ahí arriba...? Qué raro. Sea como sea, coge el siguiente barril, por favor.",
         "tutmove10": "Prepara un lanzamiento, salta y luego lanza el barril hacia abajo. Sube por la pared propulsándote con el lanzamiento.",
         "tutmove11": "Bien hecho. Cuanto más pese el objeto, más lejos te lanzarás. Coge el siguiente barril.",
         "tutmove12": "Salta por este hueco, y luego reduce la velocidad lanzando el barril hacia abajo antes del impacto con el suelo. No toques las paredes.",
@@ -2450,7 +2450,7 @@
                 "Tan-tan...",
                 "Eh...",
                 "Meh.",
-                "¿…?"
+                "¿...?"
             ],
             "eatBad": [
                 "¡Eww!",
@@ -2671,7 +2671,7 @@
                 "Uuughgh... Estoy... enfermo...",
                 "No me creo que... Esté tan enfermo...",
                 "Guuhghh... ughh...",
-                "Estoy tan débil… gughh...",
+                "Estoy tan débil... gughh...",
                 "...uughh... que asco...",
                 "Mmi.... Mierda... ugh...",
                 "Guau... acabo... de vomitar...",
@@ -2694,7 +2694,7 @@
                 "Uuughgh... Ayuda... Acabo de vomitar sangre...",
                 "No me creo que... Acabe de... Vomitar sangre...",
                 "Guuhghh... ughh... Esto es... Malo...",
-                "Estoy tan débil… gughh... Eso se sintió... Muy extraño...",
+                "Estoy tan débil... gughh... Eso se sintió... Muy extraño...",
                 "...uughh... Asqueroso- ...Sangre. Eso es sangre. Acabo de vomitar sangre. Oh no. Oh NO.",
                 "Mm.... Mierda... ugh... Sangre... Eso no puede ser bueno...",
                 "Wow... acabo... de vomitar... ¿Sangre?... ...¿Huh?",
@@ -2770,7 +2770,7 @@
                 "Me duele el estómago por el hambre...",
                 "Uggh... El hambre duele...",
                 "Ghh... estómago... hambriento.",
-                "necesito… comida...",
+                "necesito... comida...",
                 "Comida...",
                 "Uuuugh. Realmente quiero comer.",
                 "Mi estómago está muy vacío.",
@@ -2807,7 +2807,7 @@
                 "Necesito agua... Por favor...",
                 "Tengo tanta sed...",
                 "Creo que voy a morir de sed...",
-                "Voy a… deshidratarme...",
+                "Voy a... deshidratarme...",
                 "Necesito encontrar... agua... rápido...",
                 "Necesito agua... Ahora.",
                 "Me estoy mareando... Necesito agua...",
@@ -2842,7 +2842,7 @@
                 "Creo que he pillado algo...",
                 "Algo va mal con mi <limb>.",
                 "Mi <limb> se siente extrañamente caliente.",
-                "Siento como si <limb> hubiese… Enfermado.",
+                "Siento como si <limb> hubiese... Enfermado.",
                 "Mi <limb> me duele al tacto.",
                 "¡Creo que mi <limb> tiene una infección!",
                 "Mi <limb> se siente muy mal.",
@@ -2879,7 +2879,7 @@
                 "No creo que esto sea tan malo...",
                 "¿Qué más podría salir mal?",
                 "Uhm... hmm...",
-                "Ugh. Venga…...",
+                "Ugh. Venga...",
                 "He pasado por cosas peores...",
                 "Tan solo un poco peor de lo habitual...",
                 "Puedo con esto... Puedo con esto...",
@@ -2973,7 +2973,7 @@
                 "El que me haya mandado aquí, ¿es solo para que sufra...?",
                 "Ojalá pudiese... entender esto mejor.",
                 "Necesito distraerme.",
-                "...No... estoy… ...Bien...",
+                "...No... estoy... ...Bien...",
                 "Me siento genuinamente fatal.",
                 "¡ESTO ES UNA MIERDA!",
                 "Quiero llorar...",
@@ -3058,7 +3058,7 @@
                 "¿Te gusta, ehh?... Cabrón... Jajajaja... Que te JODAN... Jódete... Bien...",
                 "Joder, tío, jajaja... Esto se siente genial...",
                 "¡AAGH! ¡SÍ, JODER! Joder, me encanta...",
-                "¡JODER! ¡JAJAJAJA! ¡SÍ, JODER, SÍ…!",
+                "¡JODER! ¡JAJAJAJA! ¡SÍ, JODER, SÍ...!",
                 "Tan solo un pequeño corte... Más... Jajajaja... Joder...",
                 "Auch-... E-eso está bien... Joder... Está genial...",
                 "¡MIERDA! ¡Jajajaja! ¡JODER, sí! Jajajaja...",
@@ -3250,7 +3250,7 @@
                 "Me siento mal por él...",
                 "Espero no terminar así.",
                 "Ay... Ew... Tío.",
-                "No creo que esté respirando…",
+                "No creo que esté respirando...",
                 "Sip, eso es un cadáver...",
                 "No puedo evitar mirar...",
                 "Que le jodan a eso... Ough... Que putada.",
@@ -3388,7 +3388,7 @@
                 "Procuremos no hacer eso otra vez...",
                 "Ahora tengo sangre por todo mi cuerpo... Ew...",
                 "Ese era uno como yo...",
-                "¿A caso TENÍA que hacer eso…? P-puaj..."
+                "¿A caso TENÍA que hacer eso...? P-puaj..."
             ],
             "cold": [
                 "Hace frío aquí.",
@@ -3526,7 +3526,7 @@
                 "Estoy seguro de que he subido de peso.",
                 "Me siento tan lento y pesado.",
                 "Estoy bastante gordo.",
-                "¿…Tengo exceso de peso?",
+                "¿...Tengo exceso de peso?",
                 "Tengo que perder unos kilos.",
                 "Puedo ver la grasa acumulándose...",
                 "Tengo que dejar de comer tanto."
@@ -3565,11 +3565,11 @@
                 "Eso me... hará callar...",
                 "Me siento mejor... Ohh... sí...",
                 "Ya basta de pensar...",
-                "¡Podría… hacer esto más veces!...",
+                "¡Podría... hacer esto más veces!...",
                 "Liiiiibeeeeeertaaaaaaaaaad...",
                 "Gracias, cosa graciosa...",
                 "Necesito dejar de pensar... dejar de pensar...",
-                "Tan solo... Para que mi mente se despeje de estas cosas…",
+                "Tan solo... Para que mi mente se despeje de estas cosas...",
                 "Despeja mi mente... despéjala de todo...",
                 "No más... sufrir...",
                 "Ahhhhhh... bien..."
@@ -3790,7 +3790,7 @@
                 "Necesito limpiarme toda esta tierra.",
                 "Demasiado sucio.",
                 "Debería limpiarme toda la suciedad que llevo encima...",
-                "Procuremos no estar ASÍ de sucio…",
+                "Procuremos no estar ASÍ de sucio...",
                 "¡Hora del baño!",
                 "Estoy muy seguro de que en esas cápsulas tienen duchas... Me vendría bien una.",
                 "¿Cómo me habré ensuciado tanto?",
@@ -3803,7 +3803,7 @@
             ],
             "encumbered": [
                 "Estoy llevando más peso del que puedo.",
-                "¿En serio necesito tanto…?",
+                "¿En serio necesito tanto...?",
                 "El peso me ralentiza...",
                 "Debería soltar algo...",
                 "Debería dejar algunas cosas atrás, son bastante pesadas...",
@@ -3840,9 +3840,9 @@
             ],
             "murderregret": [
                 "¿Por qué?... ¿Por qué he hecho eso...? J-joder...",
-                "Gh... Dios... ¿Por qué…?",
-                "Yo... Eso fue horrible… Soy un monstruo...",
-                "Nhh... ¿Por qué…? Era uno de los nuestros..."
+                "Gh... Dios... ¿Por qué...?",
+                "Yo... Eso fue horrible... Soy un monstruo...",
+                "Nhh... ¿Por qué...? Era uno de los nuestros..."
             ],
             "tradeemeet": [
                 "¡Hey!",
@@ -4091,7 +4091,7 @@
             "wwmr": [
                 "Vale... Estoy aquí... Por fin he llegado aquí abajo. Vamos a ello. El objetivo debería estar en algún sitio por aquí.",
                 "El... Objetivo... Debería estar en algún sitio por aquí... No más tonterías. Vamos.",
-                "Lo he conseguido... ¿Lo he conseguido…? Umm... Debería estar por aquí... Acabemos con esto."
+                "Lo he conseguido... ¿Lo he conseguido...? Umm... Debería estar por aquí... Acabemos con esto."
             ],
             "endlessloop0": [
                 "¿...Ohh-Eh...qué..? ¿Qué? ¿Por qué? ¿Qué ha...? ¿Por qué estoy de vuelta aquí..? Qu... ¿Qué acaba de pasar...?"
@@ -6034,12 +6034,12 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "¿en serio los cientificos me pueden ver por aqui? siempre querian que dijera en voz alta lo que pensaba, pero aqui, solo hablo conmigo mismo. supongo que podria dejar de hacerlo, pero… se siente terapeutico. si no sobrevivo, al menos estas notas lo haran.",
+                "Item1": "¿en serio los cientificos me pueden ver por aqui? siempre querian que dijera en voz alta lo que pensaba, pero aqui, solo hablo conmigo mismo. supongo que podria dejar de hacerlo, pero... se siente terapeutico. si no sobrevivo, al menos estas notas lo haran.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "no me di cuenta lo horrible que estaban mis garras hasta que intente excavar otra vez y… rozaban sin mas. ya no rasgan nada. he estado rompiendo rocas sin siquiera pensar sobre esto. me senti desnudo. parece que la carne no esta hecha para reemplazar las herramientas.\n<>\nsegui asumiendo que necesitaba un pico para todo. pero descubri que el machete funciona al menos para las cosas mas ligeras. atraviesa bien por tierra, plantas, arena. me ahorra mucho dolor en mis manos.\n<>\nme encontre una botella con una etiqueta que decia potenciador de queratina. ya tenian previsto que nuestras partes se romperian. tome un sorbo. y despues de un rato, las capas viejas comenzaron a desprenderse como el pelaje. y por debajo, se sentian más afiladas. mas fuertes. era extrañamente satisfactorio ver como las partes dañadas se desprendian. me gusta como mis garras ahora me permiten agarrarme a los muros con mayor facilidad\n<>\nrecuerdo a los humanos. ellos tenian uñas en cada dedo. en todos. sin garras en lo absoluto. se veian tan mal de cerca. suaves. sin filo. era inquietante como manejaban todo con manos asi.\n<>\nsolia pensar que eso los hacia debiles.\n<>\nahora me pregunto si eso era lo que buscaban.",
+                "Item1": "no me di cuenta lo horrible que estaban mis garras hasta que intente excavar otra vez y... rozaban sin mas. ya no rasgan nada. he estado rompiendo rocas sin siquiera pensar sobre esto. me senti desnudo. parece que la carne no esta hecha para reemplazar las herramientas.\n<>\nsegui asumiendo que necesitaba un pico para todo. pero descubri que el machete funciona al menos para las cosas mas ligeras. atraviesa bien por tierra, plantas, arena. me ahorra mucho dolor en mis manos.\n<>\nme encontre una botella con una etiqueta que decia potenciador de queratina. ya tenian previsto que nuestras partes se romperian. tome un sorbo. y despues de un rato, las capas viejas comenzaron a desprenderse como el pelaje. y por debajo, se sentian más afiladas. mas fuertes. era extrañamente satisfactorio ver como las partes dañadas se desprendian. me gusta como mis garras ahora me permiten agarrarme a los muros con mayor facilidad\n<>\nrecuerdo a los humanos. ellos tenian uñas en cada dedo. en todos. sin garras en lo absoluto. se veian tan mal de cerca. suaves. sin filo. era inquietante como manejaban todo con manos asi.\n<>\nsolia pensar que eso los hacia debiles.\n<>\nahora me pregunto si eso era lo que buscaban.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6237,7 +6237,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "uno de los nuestros que me encontré cayó sobre un montón de esas rocas púrpuras. logré sacarlo de allí, pero a ambos se nos está cayendo el pelaje. no sé qué está pasando.<>\n\n\n\n\nme comí una de esas frutas que explotan en una cápsula salvavidas… y me dejó de doler. pero cuando el otro le pegó un mordisco, empezó a vomitar sangre a los pocos minutos. ya no respira. ¿qué fue diferente? se veían igual. ¿acaso tuve suerte de estar vivo? ¿por qué no mejoró?",
+                "Item1": "uno de los nuestros que me encontré cayó sobre un montón de esas rocas púrpuras. logré sacarlo de allí, pero a ambos se nos está cayendo el pelaje. no sé qué está pasando.<>\n\n\n\n\nme comí una de esas frutas que explotan en una cápsula salvavidas... y me dejó de doler. pero cuando el otro le pegó un mordisco, empezó a vomitar sangre a los pocos minutos. ya no respira. ¿qué fue diferente? se veían igual. ¿acaso tuve suerte de estar vivo? ¿por qué no mejoró?",
                 "Item2": "Sprites/noteDrawings/wasteland",
                 "Item3": "milky"
             },
