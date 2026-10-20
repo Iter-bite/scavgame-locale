@@ -4243,7 +4243,7 @@
                 "Me estoy desvaneciendo...",
                 "No puedo... Seguir... Sueño...",
                 "Perdiendo equilibrio...",
-                "Voy a colapsar…"
+                "Voy a colapsar..."
             ],
             "confused": [
                 "Me noto mareado.",
@@ -4752,14 +4752,14 @@
                 "¡Augh!",
                 "¡Argh!",
                 "¡Hnnnh!",
-                "¡…!",
+                "¡...!",
                 "¡Gnh!",
                 "Ups."
             ],
             "bigpain": [
                 "NNNHH...",
                 ".....NGHH....",
-                "...A-Agon-nía…",
+                "...A-Agon-nía...",
                 "N...Nhhh...Ghhh...",
                 "H..Mhhh...Hhh..¡A-ayu-da..!",
                 "Grrrh...",
@@ -4894,7 +4894,7 @@
             ],
             "magicheal": [
                 "¡¡¡Hh!!!....Eh. Mm. Creo que eso no me hizo daño.",
-                "¿Qué fue eso…?",
+                "¿Qué fue eso...?",
                 "Fascinante."
             ],
             "selfdestruct": [
